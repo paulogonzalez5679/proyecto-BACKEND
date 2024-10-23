@@ -9,6 +9,17 @@ var connectionString = builder.Configuration.GetConnectionString("DefaultConnect
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString));
 
+// Agregar CORS
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAllOrigins", builder =>
+    {
+        builder.AllowAnyOrigin() // Permitir cualquier origen
+               .AllowAnyMethod() // Permitir cualquier método
+               .AllowAnyHeader(); // Permitir cualquier encabezado
+    });
+});
+
 // Add services to the container.
 builder.Services.AddRazorPages(); // Asegúrate de que esta línea esté presente.
 
@@ -33,12 +44,15 @@ else
     app.UseSwaggerUI(c =>
     {
         c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
-        c.RoutePrefix = string.Empty; 
+        c.RoutePrefix = string.Empty;
     });
 }
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
+
+// Habilitar CORS antes de usar el enrutamiento
+app.UseCors("AllowAllOrigins");
 
 app.UseRouting();
 

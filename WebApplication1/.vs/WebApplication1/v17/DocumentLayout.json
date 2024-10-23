@@ -1,38 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\paulo\\source\\repos\\WebApplication1\\",
+  "WorkspaceRootPath": "C:\\Users\\paulo\\OneDrive\\Escritorio\\proyecto-BACKEND\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE1FE5F7-3952-49FD-A652-E41143F0E527}|WebApplication1\\WebApplication1.csproj|c:\\users\\paulo\\source\\repos\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE1FE5F7-3952-49FD-A652-E41143F0E527}|WebApplication1\\WebApplication1.csproj|c:\\users\\paulo\\onedrive\\escritorio\\proyecto-backend\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE1FE5F7-3952-49FD-A652-E41143F0E527}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE1FE5F7-3952-49FD-A652-E41143F0E527}|WebApplication1\\WebApplication1.csproj|c:\\users\\paulo\\source\\repos\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CE1FE5F7-3952-49FD-A652-E41143F0E527}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE1FE5F7-3952-49FD-A652-E41143F0E527}|WebApplication1\\WebApplication1.csproj|c:\\users\\paulo\\source\\repos\\webapplication1\\webapplication1\\migrations\\20241023033445_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE1FE5F7-3952-49FD-A652-E41143F0E527}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20241023033445_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE1FE5F7-3952-49FD-A652-E41143F0E527}|WebApplication1\\WebApplication1.csproj|c:\\users\\paulo\\source\\repos\\webapplication1\\webapplication1\\controller\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE1FE5F7-3952-49FD-A652-E41143F0E527}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controller\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE1FE5F7-3952-49FD-A652-E41143F0E527}|WebApplication1\\WebApplication1.csproj|c:\\users\\paulo\\source\\repos\\webapplication1\\webapplication1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE1FE5F7-3952-49FD-A652-E41143F0E527}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE1FE5F7-3952-49FD-A652-E41143F0E527}|WebApplication1\\WebApplication1.csproj|c:\\users\\paulo\\source\\repos\\webapplication1\\webapplication1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE1FE5F7-3952-49FD-A652-E41143F0E527}|WebApplication1\\WebApplication1.csproj|c:\\users\\paulo\\onedrive\\escritorio\\proyecto-backend\\webapplication1\\webapplication1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE1FE5F7-3952-49FD-A652-E41143F0E527}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE1FE5F7-3952-49FD-A652-E41143F0E527}|WebApplication1\\WebApplication1.csproj|c:\\users\\paulo\\source\\repos\\webapplication1\\webapplication1\\models\\wishlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE1FE5F7-3952-49FD-A652-E41143F0E527}|WebApplication1\\WebApplication1.csproj|c:\\users\\paulo\\onedrive\\escritorio\\proyecto-backend\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE1FE5F7-3952-49FD-A652-E41143F0E527}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1FE5F7-3952-49FD-A652-E41143F0E527}|WebApplication1\\WebApplication1.csproj|c:\\users\\paulo\\onedrive\\escritorio\\proyecto-backend\\webapplication1\\webapplication1\\models\\wishlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE1FE5F7-3952-49FD-A652-E41143F0E527}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\wishlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE1FE5F7-3952-49FD-A652-E41143F0E527}|WebApplication1\\WebApplication1.csproj|c:\\users\\paulo\\source\\repos\\webapplication1\\webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE1FE5F7-3952-49FD-A652-E41143F0E527}|WebApplication1\\WebApplication1.csproj|c:\\users\\paulo\\onedrive\\escritorio\\proyecto-backend\\webapplication1\\webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE1FE5F7-3952-49FD-A652-E41143F0E527}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1FE5F7-3952-49FD-A652-E41143F0E527}|WebApplication1\\WebApplication1.csproj|c:\\users\\paulo\\onedrive\\escritorio\\proyecto-backend\\webapplication1\\webapplication1\\controller\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1FE5F7-3952-49FD-A652-E41143F0E527}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controller\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1FE5F7-3952-49FD-A652-E41143F0E527}|WebApplication1\\WebApplication1.csproj|c:\\users\\paulo\\onedrive\\escritorio\\proyecto-backend\\webapplication1\\webapplication1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1FE5F7-3952-49FD-A652-E41143F0E527}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,27 +38,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "20241023033445_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\paulo\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20241023033445_InitialCreate.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20241023033445_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\paulo\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\20241023033445_InitialCreate.cs",
-              "RelativeToolTip": "WebApplication1\\Migrations\\20241023033445_InitialCreate.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T03:34:46.217Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\paulo\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Escritorio\\proyecto-BACKEND\\WebApplication1\\WebApplication1\\appsettings.json",
               "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
-              "ToolTip": "C:\\Users\\paulo\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Escritorio\\proyecto-BACKEND\\WebApplication1\\WebApplication1\\appsettings.json",
               "RelativeToolTip": "WebApplication1\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -71,49 +55,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\paulo\\source\\repos\\WebApplication1\\WebApplication1\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Escritorio\\proyecto-BACKEND\\WebApplication1\\WebApplication1\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\paulo\\source\\repos\\WebApplication1\\WebApplication1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Escritorio\\proyecto-BACKEND\\WebApplication1\\WebApplication1\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "WebApplication1\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T02:59:40.272Z"
+              "WhenOpened": "2024-10-23T02:59:40.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WishlistItem.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Escritorio\\proyecto-BACKEND\\WebApplication1\\WebApplication1\\Models\\WishlistItem.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\WishlistItem.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Escritorio\\proyecto-BACKEND\\WebApplication1\\WebApplication1\\Models\\WishlistItem.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\WishlistItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T02:57:21.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Escritorio\\proyecto-BACKEND\\WebApplication1\\WebApplication1\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Escritorio\\proyecto-BACKEND\\WebApplication1\\WebApplication1\\Models\\Category.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T02:57:07.335Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "WishlistItem.cs",
-              "DocumentMoniker": "C:\\Users\\paulo\\source\\repos\\WebApplication1\\WebApplication1\\Models\\WishlistItem.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\WishlistItem.cs",
-              "ToolTip": "C:\\Users\\paulo\\source\\repos\\WebApplication1\\WebApplication1\\Models\\WishlistItem.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\WishlistItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T02:57:21.806Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\paulo\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\paulo\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Category.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T02:57:07.335Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\paulo\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Escritorio\\proyecto-BACKEND\\WebApplication1\\WebApplication1\\Models\\Product.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\paulo\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Escritorio\\proyecto-BACKEND\\WebApplication1\\WebApplication1\\Models\\Product.cs",
               "RelativeToolTip": "WebApplication1\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T02:52:03.384Z"
             },
@@ -121,26 +108,27 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\paulo\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Escritorio\\proyecto-BACKEND\\WebApplication1\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "C:\\Users\\paulo\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Escritorio\\proyecto-BACKEND\\WebApplication1\\WebApplication1\\Program.cs",
               "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T01:25:47.684Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\paulo\\source\\repos\\WebApplication1\\WebApplication1\\Controller\\ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\Escritorio\\proyecto-BACKEND\\WebApplication1\\WebApplication1\\Controller\\ProductsController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controller\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\paulo\\source\\repos\\WebApplication1\\WebApplication1\\Controller\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\Escritorio\\proyecto-BACKEND\\WebApplication1\\WebApplication1\\Controller\\ProductsController.cs",
               "RelativeToolTip": "WebApplication1\\Controller\\ProductsController.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAcwFsAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAI4AAAAAAAAAAADwv7EAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T01:17:12.983Z"
+              "WhenOpened": "2024-10-23T01:17:12.983Z",
+              "EditorCaption": ""
             }
           ]
         }
